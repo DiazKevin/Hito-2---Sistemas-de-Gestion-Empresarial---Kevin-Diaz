@@ -6,7 +6,9 @@ Este proyecto consiste en una aplicación de encuesta para recopilar informació
 
 - Python 3.x
 - Tkinter (viene incluido con Python)
-- openpyxl (para exportar datos a Excel)
+- MySQL Connector para Python
+- Matplotlib
+- pandas
 
 ## Funcionalidades
 
@@ -42,4 +44,4 @@ Este proyecto consiste en una aplicación de encuesta para recopilar informació
 Para instalar los requerimientos necesarios, usa el siguiente comando:
 
 ```bash
-pip install openpyxl
+pip install mysql-connector-python matplotlib pandas
